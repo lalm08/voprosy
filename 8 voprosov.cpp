@@ -193,7 +193,7 @@ int main() {
 			flag = 1;
 			cout << "Введен номер не существующей функции, попробуйте ввести заново" << endl;
 		}
-	} while (answer != 4 || flag == 1);
+	} while (answer != 4 || flag == 1);//fdsvsdgsdfhgxdfg
 
-	return 0;
+	return 0;//fdsvsdgsdfhgxdfg
 }
