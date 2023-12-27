@@ -182,10 +182,10 @@ int main() {
 			check_answers();
 		}
 		else if (answer == 3 && check_file()) {
-			changing_answers();
+			changing_answers();//fdsvsdgsdfhgxdfg
 		}
 		else if (answer == 4) {
-			clear_answers();
+			clear_answers();//fxgxfnxfnfxfnxfnf
 		}
 		else if (answer > 4 || cin.fail()) {
 			cin.clear();
